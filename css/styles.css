@@ -1,0 +1,72 @@
+/********** Base styles **********/
+*{
+  box-sizing: border-box;
+
+}
+.navbar{
+  background-color: gray;
+ }
+#brand-text {
+  color: black;
+fluid:right;
+}
+.navbar span{
+border: 1px solid black ;
+}
+#nav-list {
+  margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+#nav-list a {
+  color: #000000;
+  background-color: #F1F1F1;
+  text-align: center;
+  border: 1px solid black;
+
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+
+}
+h2{
+text-align: center;
+margin-top: 1px;
+margin-bottom: 1px;
+}
+#main-content{
+background-color: white;
+padding: 2px;
+
+}
+#menuu{
+  background-color: white;
+  color:black;
+  border: 0px solid white;
+  padding: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#orta{
+  padding: 10px;
+text-align: justify;
+  background-color: gray;
+}
+a{
+  color:black;
+
+}
+h5{
+  text-align:center;
+  font-size:22px;
+  font-weight: bold;
+  }
+  li{
+    border: 1px solid black;
+
+  }
